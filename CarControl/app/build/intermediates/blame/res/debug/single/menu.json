@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/fred/Desktop/CarControl/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/fred/Desktop/CarControl/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/marco/AndroidStudioProjects/CarControl/app/src/main/res/menu/menu_main.xml"
+    }
+]

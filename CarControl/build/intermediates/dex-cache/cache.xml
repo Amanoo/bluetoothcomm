@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_06f6a0f0f4e785a3bbe218098bd7b750f42ec3a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_ebb5e2894717cba885b304d41b0f9a18c88f0695.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_89c93ecc6722c2e8e33ee8610d10a99672d6e81e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.0_5ea5f9962c2422214b270697248bacddb8c533a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_5e273c9d9e30cb4ebb0f3be7094e9d24c91f530c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_a08e2aa9d8e1fb693eb4b738be896cc0af7bb455.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_cf4185dd1c82ab649f09b3e94f8a3bc76bd746b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marco/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_ae7489b8f652be37d471427351fe53bc0f1ae655.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_e2788d85933103251a0cfff7a9b5fbae3b818549.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_bfe3dab8f85b1dd3e2dd9d8a1c961d78021e8140.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_064b10515ac5c728467d7bcb8df7511594d1b171.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_614f828d124fdf2353e81cb0d6c7a4247437876a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_a80e74316a17e9aa0b4c835e51279968f9a1b415.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_7946bbc42f80acabd14dd68ee8271f0faf9d5e5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_cc6107e95d126907558fe6c088bbe8065f7aa2bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.0_6b578c8181270729c4571de0980daa8429bb72ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_b6779ac446f6a62a0408dd2d7886d941161f9864.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/exploded-aar/io.github.controlwear/virtualjoystick/0.9.9/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42f20d38785b13e00bcefae3ca54689711e0df5f">
+        <dex dex="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/pre-dexed/debug/io.github.controlwear-virtualjoystick-0.9.9_95ef9042f9b446e485b3c3b5a432918e3abb5adb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_0c3f157936f9647d1b64f73a361ff63b95b5cf5a.jar" />
+    </item>
+
+</items>
