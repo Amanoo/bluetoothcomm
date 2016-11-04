@@ -8,7 +8,7 @@ void setup()
   digitalWrite(9, HIGH);
   Serial.begin(9600);
   Serial.println("Enter AT commands:");
-  BTSerial.begin(115200);  // HC-05 default speed in AT command is 38400 or 9600, I set it to 115200 (AT+BAUD8)
+  BTSerial.begin(38400);  // HC-05 default speed in AT command is 38400 or 9600, I set it to 115200 (AT+BAUD8)
 }
 
 void loop()

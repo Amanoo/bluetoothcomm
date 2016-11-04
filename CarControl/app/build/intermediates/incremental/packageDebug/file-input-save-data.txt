@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Oct 27 17:49:50 CEST 2016
+#Thu Nov 03 19:52:07 CET 2016
 20.base=/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/res/resources-debug.ap_
 143.base=/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/res/resources-debug.ap_
 439.set=ANDROID_RESOURCE
@@ -358,6 +358,7 @@
 60.base=/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/res/resources-debug.ap_
 192.base=/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/res/resources-debug.ap_
 363.base=/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/res/resources-debug.ap_
+460.set=ANDROID_RESOURCE
 210.file=/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
 59.set=ANDROID_RESOURCE
 396.base=/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/res/resources-debug.ap_
@@ -1061,6 +1062,7 @@
 263.base=/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/res/resources-debug.ap_
 434.base=/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/res/resources-debug.ap_
 110.file=/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/res/resources-debug.ap_/res/layout/abc_select_dialog_material.xml
+460.file=/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/res/resources-debug.ap_/res/layout-v21/activity_bluetooth.xml
 296.base=/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/res/resources-debug.ap_
 224.set=ANDROID_RESOURCE
 126.base=/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/res/resources-debug.ap_
@@ -1191,7 +1193,7 @@
 361.file=/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
 74.base=/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/res/resources-debug.ap_
 394.file=/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png
-count=460
+count=461
 257.file=/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png
 428.file=/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/res/resources-debug.ap_/res/drawable-v21/abc_action_bar_item_background_material.xml
 77.set=ANDROID_RESOURCE
@@ -1380,4 +1382,5 @@ count=460
 291.set=ANDROID_RESOURCE
 109.file=/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/notification_bg_low_normal.9.png
 110.base=/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/res/resources-debug.ap_
+460.base=/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/res/resources-debug.ap_
 19.file=/home/marco/AndroidStudioProjects/CarControl/app/build/intermediates/res/resources-debug.ap_/res/layout/design_navigation_menu_item.xml

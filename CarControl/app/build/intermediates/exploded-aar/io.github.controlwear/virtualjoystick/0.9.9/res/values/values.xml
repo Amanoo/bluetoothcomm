@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="JoystickView"><attr format="color" name="JV_buttonColor"/><attr format="color" name="JV_borderColor"/><attr format="color" name="JV_backgroundColor"/><attr format="dimension" name="JV_borderWidth"/></declare-styleable>
+</resources>
